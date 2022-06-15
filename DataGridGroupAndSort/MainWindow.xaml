@@ -16,7 +16,7 @@
                 <PropertyGroupDescription PropertyName="Group" />
             </CollectionViewSource.GroupDescriptions>
             <CollectionViewSource.SortDescriptions>
-                <componentModel:SortDescription Direction="Descending" PropertyName="DateModified" />
+                <componentModel:SortDescription Direction="Descending" PropertyName="Date" />
             </CollectionViewSource.SortDescriptions>
         </CollectionViewSource>
         <Style x:Key="GroupStyle" TargetType="{x:Type GroupItem}">
