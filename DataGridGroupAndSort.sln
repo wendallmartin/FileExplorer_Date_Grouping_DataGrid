@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridGroupAndSort", "DataGridGroupAndSort\DataGridGroupAndSort.csproj", "{57C1C27F-2D5E-475C-9236-AB57355F01DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C1C27F-2D5E-475C-9236-AB57355F01DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C1C27F-2D5E-475C-9236-AB57355F01DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C1C27F-2D5E-475C-9236-AB57355F01DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C1C27F-2D5E-475C-9236-AB57355F01DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
